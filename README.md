@@ -3,11 +3,13 @@ About
 
 Pngs of Planning Poker cards used in story estimation. See <a href="https://en.wikipedia.org/wiki/Planning_poker">Wikipedia</a> for a description.
 
-There are three flavours currently:
+There are three decks currently:
 
 * Fibonnacci (traditional)
 * Modified Fibonnacci (more coarse grained for higher values)
 * T-Shirt sizes (for summer !)
+
+Each "deck" consists of 17 "suits", way more than you would need traditionally need but included so you can pick your favourite colours :)
 
 License
 =======
